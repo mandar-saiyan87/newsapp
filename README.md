@@ -1,5 +1,4 @@
-# BlockChain Hub is news app which gives daily news updates primarily focused on Blockchain Technology, Cryptocurrency, Defi and other updates.
-# It fetched news from newsapi.
+# BlockChain Hub is news app which gives daily news updates primarily focused on Blockchain Technology, Cryptocurrency, Defi and other updates. Fetched news from newsapi.
 
 
 # Getting Started with Create React App
